@@ -97,6 +97,9 @@ http://181.78.27.128:8000/play/a044/index.m3u8
 #EXTINF:-1 tvg-id="FXSouth.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-FX.png" audio-track="spa" group-title="Entretenimiento", FX
 http://181.13.173.86:8000/play/a02v/index.m3u8
 
+#EXTINF:-1 tvg-id="FXSouth.us" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fyt3.ggpht.com%2F-x8Jnms_IQfo%2FAAAAAAAAAAI%2FAAAAAAAAAAA%2FXcSZkqdHBTg%2Fs900-c-k-no%2Fphoto.jpg&f=1&nofb=1&ipt=94e77e21cd2883e7aa5aef06dce6d9622356b4b55c497254fce84b5c46da38f6&ipo=images" audio-track="spa" group-title="Entretenimiento", Wobi
+https://dsr.ride.com.ar/tvmia/an40/playlist.m3u8
+
 #EXTINF:-1 tvg-id="UniversalTVSouth.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-UniversalTV.png" audio-track="spa" group-title="Entretenimiento", Universal TV
 http://181.13.173.86:8000/play/a0ar/index.m3u8
 
