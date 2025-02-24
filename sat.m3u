@@ -378,7 +378,8 @@ http://181.13.173.86:8000/play/a02s/index.m3u8
 #EXTINF:-1 tvg-id="DeporTV.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-Deportv.png" group-title="Deportes", Deportv
 https://dsr.ride.com.ar/tvmia/an09/playlist.m3u8
 
-
+#EXTINF:-1 tvg-id="ar#espn" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fbrandemia.org%2Fsites%2Fdefault%2Ffiles%2Fcaptura_de_pantalla_2016-04-28_a_las_11.36.23_copia.png&f=1&nofb=1&ipt=54807c4d1c0be73e18c85e7e9a4135eb9801f7a27d8155f4682fcb4714ed2bc9&ipo=images" group-title="Deportes", Gol Peru
+https://dsr.ride.com.ar/tvmia/an35/playlist.m3u8
 
 
 
