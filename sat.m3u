@@ -557,3 +557,9 @@ https://dsr.ride.com.ar/tvmia/an47/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvignette.wikia.nocookie.net%2Flogopedia%2Fimages%2F0%2F0d%2FNuevologo-Gamavisi%25C3%25B3n.png%2Frevision%2Flatest%3Fcb%3D20171030201419&f=1&nofb=1&ipt=95f068189210baf27fb3229a0f6001706d1c5e236da01457fab7348a1506d4c0&ipo=images" group-title="Internacionales", Gama Vision ( Ecuador)
 https://dsr.ride.com.ar/tvmia/an52/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F0%2F0b%2FLogo_RCN_Televisi%25C3%25B3n.png&f=1&nofb=1&ipt=80e876a40e0f10af33f638f8b163e931eb1645eaa8cc6087c596dbddb86e7f70&ipo=images" group-title="Internacionales", RCN ( Colombia )
+https://dsr.ride.com.ar/tvmia/an64/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic-media.streema.com%2Fmedia%2Fobject-images%2F46f6bddf-8117-4d15-a35b-f3a893178659.jpg&f=1&nofb=1&ipt=f9f50506321a71951a5b18dd771c1291749df7a4879af3f699aefcc94362a50a&ipo=images" group-title="Radios", Aspen
+https://dsr.ride.com.ar/tvmia/an64/playlist.m3u8
