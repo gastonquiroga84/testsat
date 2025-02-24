@@ -18,6 +18,9 @@ https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-id="NETTV.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Net.png" group-title="Nacionales", Net TV
 https://dsr.ride.com.ar/tvmia/an17/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/3YRH1ARFHgPzmkpxYvdyYb/46d00e2d0c56fb9d172668de72f86b54/27_Metro.png?fm=webp&q=80" group-title="Nacionales" , Metro
+https://dsr.ride.com.ar/tvmia/an43/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/5yCPV36WLATWGEgkWv6h3D/5cc84285f9792100a4444091ddd3999b/07_BRAVO-TV-entretenimiento.png?fm=webp&q=80" group-title="Nacionales" , BRAVO TV
 https://dsr.ride.com.ar/tvmia/an42/playlist.m3u8
 
@@ -25,7 +28,7 @@ https://dsr.ride.com.ar/tvmia/an42/playlist.m3u8
 https://dsr.ride.com.ar/tvmia/an13/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xdsxNVXq/609-Canal-Ciudad.png" group-title="Nacionales" , Canal de la Ciudad  
-http://181.13.173.86:8000/play/a06e/index.m3u8
+https://dsr.ride.com.ar/tvmia/an41/playlist.m3u8
 
 
 
@@ -125,7 +128,7 @@ http://181.209.95.29:8000/play/a0aj/index.m3u8
 http://181.209.95.29:8000/play/a06z/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_tlnovelas_feb2019.png/716px-Logo_tlnovelas_feb2019.png" group-title="Entretenimiento", Telenovelas
-http://201.182.248.254:8888/play/a06b/index.m3u8
+https://dsr.ride.com.ar/tvmia/an49/playlist.m3u8
 
 #EXTINF:-1 tvg-id="LifetimePanregional.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-Lifetime.png" audio-track="spa" group-title="Entretenimiento", Lifetime
 http://181.209.95.29:8000/play/a06n/index.m3u8
@@ -373,7 +376,7 @@ http://181.13.173.86:8000/play/a0ag/index.m3u8
 https://dsr.ride.com.ar/tvmia/an26/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Golf.Channel.(Latin.America).(GOLF).ar" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/118-GolfChannel.png" group-title="Deportes", Golf Channel
-http://38.191.90.2:8000/play/a038/index.m3u8
+https://dsr.ride.com.ar/tvmia/an45/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-TyC.png" group-title="Deportes", TyC Sports
 http://181.13.173.86:8000/play/a02s/index.m3u8
@@ -543,3 +546,12 @@ https://dsr.ride.com.ar/tvmia/an36/playlist.m3u8
 
 #EXTINF:-1tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcanaln.pe%2F_next%2Fimage%3Furl%3D%252Fimg%252Flogo-canalN-color.png%26w%3D96%26q%3D75&f=1&nofb=1&ipt=1843b46f101ad58c363586fa9fa884a7a7cf7149987123be14c8e2b30b8ecdc5&ipo=images" group-title="Internacionales", Canal N ( Peru)
 https://dsr.ride.com.ar/tvmia/an38/playlist.m3u8
+
+#EXTINF:-1tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMjkwX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png" group-title="Internacionales", EV ( Ecuador)
+https://dsr.ride.com.ar/tvmia/an46/playlist.m3u8
+
+#EXTINF:-1tvg-logo="https://vosswater.com/wp-content/uploads/2020/09/ta-centers.png" group-title="Internacionales", Canal TA ( Ecuador)
+https://dsr.ride.com.ar/tvmia/an47/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvignette.wikia.nocookie.net%2Flogopedia%2Fimages%2F0%2F0d%2FNuevologo-Gamavisi%25C3%25B3n.png%2Frevision%2Flatest%3Fcb%3D20171030201419&f=1&nofb=1&ipt=95f068189210baf27fb3229a0f6001706d1c5e236da01457fab7348a1506d4c0&ipo=images" group-title="Internacionales", Gama Vision ( Ecuador)
+https://dsr.ride.com.ar/tvmia/an52/playlist.m3u8
