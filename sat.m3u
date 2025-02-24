@@ -529,7 +529,10 @@ https://dsr.ride.com.ar/tvmia/an30/playlist.m3u8
 https://dsr.ride.com.ar/tvmia/an31/playlist.m3u8
 
 #EXTINF:-1tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/50x37/Y2gwMTAwMDAwMDAwMjM3X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png" group-title="Internacionales", Panamericana ( Peru)
-https://dsr.ride.com.ar/tvmia/an31/playlist.m3u8
+https://dsr.ride.com.ar/tvmia/an33/playlist.m3u8
+
+#EXTINF:-1tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimagenes.gatotv.com%2Flogos%2Fcanales%2Foscuros%2Fperu_magico-mediano.png&f=1&nofb=1&ipt=645c799d73a0c5a8ced3f042bdcc5761dc38be305931e0ac5ea6e28987bc7e45&ipo=images" group-title="Internacionales", Peru Magico( Peru)
+https://dsr.ride.com.ar/tvmia/an34/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.latina101.com.ar/images/logo.png" group-title="Radio", Latina Radio FM 101.1
 https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/0/playlist.m3u8
