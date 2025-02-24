@@ -381,7 +381,7 @@ https://dsr.ride.com.ar/tvmia/an26/playlist.m3u8
 https://dsr.ride.com.ar/tvmia/an45/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-TyC.png" group-title="Deportes", TyC Sports
-http://181.13.173.86:8000/play/a02s/index.m3u8
+https://dsr.ride.com.ar/tvmia/an54/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DeporTV.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-Deportv.png" group-title="Deportes", Deportv
 https://dsr.ride.com.ar/tvmia/an09/playlist.m3u8
@@ -434,7 +434,7 @@ https://dsr.ride.com.ar/tvmia/an37/playlist.m3u8
 https://dsr.ride.com.ar/tvmia/an15/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/IP_NOTICIAS.jpg" group-title="Noticias", IP Noticias
-http://181.78.27.128:8000/play/a055/index.m3u8
+https://dsr.ride.com.ar/tvmia/an54/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/4Pdlm_CqA7QH1YapYrh5qEwiwgeg6lSZ1rwaBAL57gPJS3yxzQT3bHLihVRx6Y6-A4LFnGsXJg=s176-c-k-c0x00ffffff-no-rj" group-title="Noticias", Chacra TV
 https://g5.vxral-hor.transport.edge-access.net/a11/ngrp:gcba_video3-100042_all/gcba_video3-100042_720p.m3u8
