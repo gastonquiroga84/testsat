@@ -13,7 +13,7 @@ https://dsr.ride.com.ar/tvmia/an05/playlist.m3u8
 https://dsr.ride.com.ar/tvmia/an11/playlist.m3u8  
 
 #EXTINF:-1 tvg-id="ElTrece.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Trece.png" group-title="Nacionales", El Trece
-https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v2a1/mono.m3u8
+https://dsr.ride.com.ar/tvmia/bn02/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NETTV.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Net.png" group-title="Nacionales", Net TV
 https://dsr.ride.com.ar/tvmia/an17/playlist.m3u8
