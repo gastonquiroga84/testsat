@@ -330,7 +330,8 @@ http://38.191.90.2:8000/play/a04q/index.m3u8
 
  
 
-
+#EXTINF:-1 tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Farchive.org%2Fdownload%2Fwin-sports-logo.svg%2FWin_Sports%252B_logo.svg.png&f=1&nofb=1&ipt=0fd8f1bafdd470785f58543e8f1938b7bc2f2cb57ac32df5838edd11a1e744e8&ipo=images" group-title="Deportes", Win Sports + 
+https://dsr.ride.com.ar/tvmia/an32/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.vertvcable.com%2Fwp-content%2Fuploads%2F2022%2F07%2Fecdf.jpg&f=1&nofb=1&ipt=c26bbda39442893a5f678bcbb3a0387d1d8d2072e50987784994cc08a184727d&ipo=images" group-title="Deportes", ECDF (Ecuador)
